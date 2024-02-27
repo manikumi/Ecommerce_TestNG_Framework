@@ -1,0 +1,8 @@
+Framework\PageObjects\ConfirmationPage.class
+Framework\AbstractComponents\AbstarctComponent.class
+Framework\PageObjects\CheckoutPage.class
+Framework\PageObjects\ProductCatalog.class
+Framework\PageObjects\LandingPage.class
+Framework\PageObjects\OrderPage.class
+Framework\PageObjects\CartPage.class
+Framework\Resources\ExtentReporterNG.class
